@@ -1,0 +1,13 @@
+C:\Users\Admin\OneDrive\Documents\VB\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\Admin\OneDrive\Documents\VB\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Admin\OneDrive\Documents\VB\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Admin\OneDrive\Documents\VB\LoginForm\LoginForm\bin\Debug\LoginForm.xml
+C:\Users\Admin\OneDrive\Documents\VB\LoginForm\LoginForm\obj\Debug\LoginForm.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\VB\LoginForm\LoginForm\obj\Debug\LoginForm.Form1.resources
+C:\Users\Admin\OneDrive\Documents\VB\LoginForm\LoginForm\obj\Debug\LoginForm.Resources.resources
+C:\Users\Admin\OneDrive\Documents\VB\LoginForm\LoginForm\obj\Debug\LoginForm.vbproj.GenerateResource.Cache
+C:\Users\Admin\OneDrive\Documents\VB\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\Admin\OneDrive\Documents\VB\LoginForm\LoginForm\obj\Debug\LoginForm.xml
+C:\Users\Admin\OneDrive\Documents\VB\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\Admin\OneDrive\Documents\VB\LoginForm\LoginForm\obj\Debug\LoginForm.Dashboard.resources
+C:\Users\Admin\OneDrive\Documents\VB\LoginForm\LoginForm\obj\Debug\LoginForm.Registration.resources
